@@ -1,0 +1,53 @@
+........BOOK DETAILS.......
+1.FICTION
+2.LITERATUE
+3.EXIT
+Enter the options:
+1
+
+Enter a FICTION
+Publisher:
+Penguin Books
+Title:
+The Great Adventure
+Author:
+John Doe
+Theme:
+Heroism
+
+Fiction book added!!!!
+Publisher:Penguin Books
+Title:The Great Adventure
+Author:John Doe
+Theme:Heroism
+
+........BOOK DETAILS.......
+1.FICTION
+2.LITERATUE
+3.EXIT
+Enter the options:
+2
+
+Enter a LITERATUE
+Publisher:
+Oxford University Press
+Title:
+Classic Tales
+Author:
+Jane Austen
+Type:
+Historical
+
+Literature book added!!!!
+Publisher:Oxford University Press
+Title:Classic Tales
+Author:Jane Austen
+Type:Historical
+
+........BOOK DETAILS.......
+1.FICTION
+2.LITERATUE
+3.EXIT
+Enter the options:
+3
+Exiting.....
