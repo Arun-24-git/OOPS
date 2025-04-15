@@ -1,0 +1,9 @@
+ksb@ksb-H410M-S2-V2:~/ARUNJITH/JAVA/sportsscore$ javac Sportsstud.java
+ksb@ksb-H410M-S2-V2:~/ARUNJITH/JAVA/sportsscore$ java Sportsstud
+enter academic score:
+231
+enter sports score:
+987
+.....SCORE CARD......
+ACADEMIC SCORE:231
+SPORTS SCORE:987
