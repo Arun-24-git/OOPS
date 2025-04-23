@@ -30,15 +30,16 @@ public class Sportsstud
 public static void main(String args[])
 {
 Scanner sc=new Scanner(System.in);
-System.out.println("enter academic score:");
-int academic=sc.nextInt();
-System.out.println("enter sports score:");
-int sport=sc.nextInt();
+//System.out.println("enter academic score:");
+//int academic=sc.nextInt();
+//System.out.println("enter sports score:");
+//int sport=sc.nextInt();
+int academic=85;
+int sport=90;
 System.out.println(".....SCORE CARD......");
 Result r=new Result(academic,sport);
 r.displayscore();
 r.displayssport();
 }
 }
-
 
