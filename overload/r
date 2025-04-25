@@ -1,0 +1,25 @@
+Define a class AreaCalculator.
+
+Inside the class, define overloaded methods:
+
+    calculateArea(double radius) for circle.
+
+    calculateArea(double length, double width) for rectangle.
+
+    calculateArea(double base, double height) for triangle.
+
+In the main method:
+
+    Declare and initialize variables:
+
+        radius = 5.0
+
+        length = 4.0, width = 6.0
+
+        base = 3.0, height = 5.0
+
+    Create an object of AreaCalculator.
+
+Call the appropriate calculateArea() method for each shape and print the result.
+
+End
